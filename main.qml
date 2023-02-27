@@ -5,5 +5,5 @@ Window {
     visible: true
     width: 640
     height: 480
-    title: qsTr("sdfdf123123")
+    title: qsTr("sdfdf1231sdfsd")
 }
